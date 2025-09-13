@@ -15,7 +15,7 @@ This portfolio reflects my learning journey and projects that demonstrate my beg
 ### 1. Excel – Sales Data Analysis
 - Cleaned raw sales data and made it available for further analysis.
 - Tools: Excel, VLOOKUP
-- [View Project Repository](link-will-go-here)
+- [View Project Repository](https://github.com/Rennie-M/Excel-Sales.analysis.git)
 
 ### 2. SQL – Retail Transactions Analysis
 - Wrote SQL queries to explore sales, categories, and monthly trends.
