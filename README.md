@@ -46,7 +46,7 @@ This portfolio reflects my learning journey and projects that demonstrate my beg
 - Identified top-performing channels and seasonal ROI spikes during festive campaigns.
 - Recommended reallocating budget and refreshing creatives to optimize future campaigns.
 - Tools: Power BI, DAX, Data Modeling
-- [View Project Repository]
+- [View Project Repository](https://github.com/Rennie-M/Powerbi-business-dash)
   
 ---
 
